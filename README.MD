@@ -10,5 +10,6 @@ In fact, it's not difficult to adapt to it.
 На самом деле адаптироваться к нему не сложно, русский алфавит придумал сам.
 
 ![image](cursed.png)
-
-
+![image](md.png)
+![image](code.png)
+![image](docimg.png)
